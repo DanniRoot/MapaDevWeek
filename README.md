@@ -1,6 +1,6 @@
 # MapaDevWeek
 
-Projeto feito com HTML, CSS e JS simulando a seleção de um jogo de luta usando personagens 
+Projeto feito com HTML, CSS e JS simulando a seleção de personagens de um jogo de luta
 </br>
 https://mapa-dev-week-dcnbhrumt-danniroot.vercel.app/
 
